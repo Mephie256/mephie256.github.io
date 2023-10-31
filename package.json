@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "homepage": "https://github.com/Mephie256/mephie256.github.io.git",
+"scripts": {
+  "predeploy": "vite ",
+  "deploy": "gh-pages -d dist"
+
+}
+}
